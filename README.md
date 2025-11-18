@@ -29,7 +29,8 @@ Aplikasi ini dibuat sesuai pedoman pada KAK Kriptografi/Keamanan Data dan memenu
 
 **Windows PowerShell**
 
-```.venv\Scripts\Activate.ps1
+```
+.venv\Scripts\Activate.ps1
 ```
 
 **Linux/macOS**
