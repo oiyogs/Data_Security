@@ -116,9 +116,6 @@ Keamanandata/
 │      ├─ sample.txt
 │      └─ sample.csv
 │
-├─ tests/
-│   └─ test_crypto.py
-│
 └─ report/
     └─ draft.md
 ```
